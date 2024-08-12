@@ -1,0 +1,6 @@
+[package]
+name = "ufc_betting"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
